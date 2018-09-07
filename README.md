@@ -1,1 +1,1 @@
-# angular-zoom
+# angularx-zoom
